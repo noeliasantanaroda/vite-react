@@ -1,0 +1,31 @@
+.navbar-container{
+    margin-top: 10px;
+    background-color: rgb(243, 176, 243);
+    color: white;
+    display:flex ;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar-left{
+    font-size: 40px;
+    font-weight:700;
+    color: rgb(154, 61, 240);
+}
+.navbar-rigth{
+    display: flex;
+}
+.navbar-rigth > p{
+    margin-right: 10px;
+    padding: 8px 10 px;
+    font-size: 14px;
+
+}
+.navbar-rigth > p:hover{
+    background-color:rgb(50, 4, 102) ;
+    border-radius: 8px;
+}
+.navbar-rigth > p > a{
+    margin-right: 10px;
+    color:white;
+
+}

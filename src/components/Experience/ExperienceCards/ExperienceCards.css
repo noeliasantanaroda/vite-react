@@ -1,0 +1,40 @@
+.ex-card-container{
+    width:60%;
+    padding: 18px 24px;
+    background-color: rgb(238, 101, 231);
+    box-shadow: -8px 8px 8px 0 rgb(245, 151, 151);
+    margin: 50px 15px;
+}
+.ex-card-title{
+    text-align: center;
+    font-size: 35px;
+    font-family: 600;
+    font-weight: 600;
+    color: rgb(129, 13, 238);
+}
+.ex-card-subtitle{
+    font-size:25px;
+    color: rgb(151, 55, 241);
+}
+.ex-card-sentence{
+    font-size: 22px;
+    color: rgb(70, 68, 68);
+}
+
+.ex-card-tech-used-title{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(151, 55, 241);
+}
+.ex-card-icon-img-cont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ex-card-icon-img-cont > img{
+  height: 80px;
+  margin: 0 9px ;
+  padding-bottom: 20px;
+  
+}

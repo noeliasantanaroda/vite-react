@@ -1,0 +1,14 @@
+.projects-title{
+    margin-top: 200px;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    color:rgb(129, 13, 238);
+}
+.projects-box-container{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+
+}

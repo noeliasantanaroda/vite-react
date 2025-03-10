@@ -1,0 +1,30 @@
+.project-box-container{
+    width: 550px;
+    background-color: rgb(238, 101, 231);
+    box-shadow: -8px 8px 8px 0 rgb(245, 151, 151);
+    margin: 50px 15px;
+}
+.project-box-img-cont{
+    height: 245px;
+    display: flex;
+    width: 550px;
+
+}
+.project-box-desc-cont{
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    color: rgb(151, 55, 241);
+}
+.project-box-sent-cont > p, .project-box-link{
+   font-size: 18px;
+   color: rgb(70, 68, 68);;
+}
+.project-box-link > span{
+    color: rgb(151, 55, 241);
+    font-weight: 700;
+
+}
+.project-box-link > a{
+    color: rgb(66, 6, 94);
+}

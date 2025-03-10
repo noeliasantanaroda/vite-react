@@ -1,0 +1,28 @@
+{
+    "projectData":[
+        {
+            "image": "./src/image/e-commerce.png",
+            "title": "E-commerce Project",
+            "sentences":
+            [
+            "1.This project was carried out by 5 people, myself included; we all contributed knowledge, code, and design.  ",
+            "2.It contains clean and organized code, both in the frontend and backend", 
+            "3.The project has responsive design, payment methods, a section with product cards, search filters, day/night mode, and much more. "
+        ],
+         "link":"https://romipe24.github.io/Proyecto_final_Jap/"
+        
+        },
+        {
+            "image": "./src/image/clone-ig.png",
+            "title": "Clone IG Project",
+            "sentences":
+            [
+            "1.This project was carried out during the Level 2 HTML, CSS, and JS course.  ",
+            "2.It was done by following the steps of the tutorial and adding or adjusting code during the process.",
+            "3.To complete this project, I used Bootstrap, GitHub, google Fonts, HTML, and CSS."
+        ],
+         "link":"https://noeliasantanaroda.github.io/cloneIG/"
+        
+        }
+    ]
+}

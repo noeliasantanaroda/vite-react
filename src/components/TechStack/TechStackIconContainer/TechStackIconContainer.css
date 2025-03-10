@@ -1,0 +1,17 @@
+.techstack-icons{
+    flex: 33%;
+    width: 110px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+.techstack-icons > img{
+    height: 120px;
+    border-radius: 10%;
+    width: auto;
+    cursor: pointer;
+}
+.techstack-icons > img:hover{
+    transform: scale(2,2)
+}

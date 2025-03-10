@@ -1,0 +1,18 @@
+{
+    "experienceData":[
+        {
+            "id": 1,
+            "companyName": "JAP Ceibal",
+            "designation": "Developer Web Student",
+            "statements":
+            [
+            "1. I studied, learned and applied languages like html, css and js, and tools like git, github, vscode, figma and node.js. ",
+            "2. I graduated for having realized an e-commerce project with my classmates, we used frontend and a little of backend tools.", 
+            "3. Now I am reinforcing what I learned in level 1 and studying level 2, where I am learning react, angular, .net and fullstack. ",
+            "4. I do small projects like this one to generate coding experience."
+        ],
+         "iconImg":["react", "js", "html", "css"]
+        
+        }
+    ]
+}
