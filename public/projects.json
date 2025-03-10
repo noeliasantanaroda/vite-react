@@ -1,7 +1,7 @@
 {
     "projectData":[
         {
-            "image": "./src/image/e-commerce.png",
+            "image": "https://cdn-prod.voxy.com/wp-content/uploads/2023/05/Logo-jovenes-Programare1w.png",
             "title": "E-commerce Project",
             "sentences":
             [
@@ -13,7 +13,7 @@
         
         },
         {
-            "image": "./src/image/clone-ig.png",
+            "image": "https://user-images.githubusercontent.com/48273777/114642041-cd935100-9cf0-11eb-9241-33bfc606a0b4.png",
             "title": "Clone IG Project",
             "sentences":
             [
